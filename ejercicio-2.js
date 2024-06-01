@@ -1,11 +1,11 @@
-let a = 4;
-let b = 7;
-let c = 2 * b;
-let x = a;
-let y = 3 * x;
-let u = 6;
-let w = 10;
-let z = 2 * w;
+const  a = 4;
+const b = 7;
+const c = 2 * b;
+const x = a;
+const y = 3 * x;
+const u = 6;
+const w = 10;
+const z = 2 * w;
 
 let resultadoA = a / (b * c);
 let resultadoB = a ** 2 + b ** 92;
